@@ -1,4 +1,4 @@
-# 4. Medium: Median of Two Sorted Arrays
+# 4. Hard: Median of Two Sorted Arrays
 
 class Solution(object):
     def findMedianSortedArrays(self, nums1, nums2):
